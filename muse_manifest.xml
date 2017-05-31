@@ -1,0 +1,87 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lagerair.ml" resolutions="1x" timestamp="1496233509984">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="______.css" crc="4155590652" ref="работы"/>
+    <file name="index.css" crc="229372667" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>работы:index:работы"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>работы:index:работы"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>работы:index:работы"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>работы:index:работы"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>работы:index:работы"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>работы:index:работы"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>работы:работы"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>работы:работы"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>работы:работы"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>работы:работы"/>
+  </folder>
+  <folder name="images">
+    <file name="icon_mobil1.png" crc="3868242405" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2718.png" crc="524163239" ref="phone>index"/>
+    <file name="u2718-r.png" crc="3843779234" ref="phone>index"/>
+    <file name="logo1-u1527-fr.jpg" crc="45007349" ref="phone>index"/>
+    <file name="u1528-6.png" crc="3829468400" ref="phone>index"/>
+    <file name="1368x207.png" crc="260046819" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>работы:работы"/>
+    <file name="2368x207.png" crc="4129633366" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="3368x207.png" crc="321036847" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="4368x207.png" crc="534633096" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="5368x207.png" crc="3961733952" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="6368x207.jpg" crc="4154525384" seo="true" ref="phone>работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>работы:работы"/>
+    <file name="u2644-6.png" crc="3829468400" ref="phone>работы"/>
+    <file name="logo1.jpg" crc="4038904387" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u208-6.png" crc="165907739" ref="index"/>
+    <file name="imac_filled1600.png" crc="4006930611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2693.png" crc="4152349620" ref="index"/>
+    <file name="u2693-r.png" crc="509772629" ref="index"/>
+    <file name="1.png" crc="53241501" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="2.png" crc="4136482736" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="3.png" crc="4060667886" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="4.png" crc="3863108513" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="5.png" crc="3759152007" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4195408710" seo="true" ref="работы">
+      <caption webpage="работы" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="______.css" crc="110441587" ref="phone>работы"/>
+      <file name="index.css" crc="290469686" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="273541986" seo="true" mt="1496233016809" redirect="true"/>
+    <file name="работы.html" crc="4106676672" seo="true" mt="1496233458741" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="420075600" seo="true" mt="1496233016807" redirect="true"/>
+  <file name="работы.html" crc="485337639" seo="true" mt="1496233408580" redirect="true"/>
+</manifest>
